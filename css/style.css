@@ -156,6 +156,7 @@ figure {
   background-repeat: no-repeat;
   background-position: center center !important;
   padding-top: 0!important;
+  height:100vh;
 }
 
 @media screen and (max-width: 768px) {
